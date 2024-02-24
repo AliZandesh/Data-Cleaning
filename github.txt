@@ -1,0 +1,3 @@
+https://github.com/AlexTheAnalyst/PandasYouTubeSeries/blob/main/Customer%20Call%20List.xlsx
+
+https://github.com/AlexTheAnalyst/PandasYouTubeSeries/blob/main/Pandas%20101%20-%20Data%20Cleaning%20in%20Pandas.ipynb
